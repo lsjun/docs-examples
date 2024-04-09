@@ -9,6 +9,7 @@ window.paypal
           },
           // use the "body" param to optionally pass additional order information
           // like product ids and quantities
+          //test
           body: JSON.stringify({
             cart: [
               {
